@@ -5,7 +5,7 @@
 I am a full-stack .net developer from Brazil :brazil:.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🎓 Graduated at Fatec Sorocaba
+- 🎓 Graduated in System Analysis and Development at Fatec Sorocaba
 - 🌱 I’m currently learning .NET C#, Javascript, HTML5, CSS3, Angular, Typescript, Elixir
 
 ### 👨‍💻 Languages :
@@ -25,6 +25,8 @@ I am a full-stack .net developer from Brazil :brazil:.
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg" title="Phoenix" alt="Phoenix" width="40" height="40"/>
+
 </p>
 
 ### 🗄️ Databases :
