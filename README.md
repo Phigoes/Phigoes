@@ -23,7 +23,6 @@ I am a full-stack .net developer from Brazil :brazil:.
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" title="Angular" alt="Angular" width="40" height="40"/>
 
 </p>
 
@@ -31,6 +30,8 @@ I am a full-stack .net developer from Brazil :brazil:.
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQLServer"  alt="SQLServer" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle"  alt="Oracle" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Oracle"  alt="Oracle" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Oracle"  alt="Oracle" width="40" height="40"/>
 </p>
 
 ### 🛠 Tools :
@@ -39,6 +40,8 @@ I am a full-stack .net developer from Brazil :brazil:.
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Code"  alt="Visual Code" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Git" alt="Git" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </p>
 
 ### ☁️ Clouds :
