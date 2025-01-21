@@ -2,11 +2,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/philippgoes)
 
-I am a full-stack .net developer from Brazil :brazil:.
+I am a backend .net developer from Brazil :brazil:.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🎓 Graduated in System Analysis and Development at Fatec Sorocaba
-- 🌱 I’m currently learning .NET C#, Javascript, HTML5, CSS3, Angular, Typescript, Elixir
+- 🌱 I’m currently learning .NET C#, Javascript, HTML5, CSS3.
 
 ### 👨‍💻 Languages :
 <p>
