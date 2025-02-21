@@ -49,3 +49,8 @@ I am a backend .net developer from Brazil :brazil:.
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"  title="Azure" alt="Azure" width="40" height="40"/>
 </p>
+
+### Certifications:
+<p>Microsoft Certified: Azure Fundamentals (AZ-900)</p>
+<p>Microsoft Certified: Azure Developer Associate (AZ-204)</p>
+
