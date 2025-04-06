@@ -2,17 +2,18 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/philippgoes)
 
-I am a backend .net developer from Brazil :brazil:.
+I am a FullStack .NET Developer from Brazil :brazil:.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🎓 Graduated in System Analysis and Development at Fatec Sorocaba - Brazil
-- 🌱 Always learning .NET C#, Javascript, HTML5, CSS3.
+- 🌱 Always learning C#, Javascript, Typescript, HTML5, CSS3.
 - My personal project: www.fearandgreed.com.br (Fear and Greed Index Brazil)
 
 ### 👨‍💻 Languages :
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
 </p>
 
 ### 🧰 Techs :
